@@ -1,4 +1,4 @@
-# funzioni per l'implementazione dell'albero 
+# funzioni per l'implementazione dell'albero
 def nodo(x, s, d):
     return [x, s, d]
 
